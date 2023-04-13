@@ -1,0 +1,32 @@
+#title{
+    color:gray;
+    font-family: 'Lobster', cursive;
+}
+#footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:beige;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+body{
+    background-color:blanchedalmond;
+    background-size: cover;
+    font-family: 'Alkatra', cursive;
+}
+img{
+    background-color:blanchedalmond;
+    width: 250px;
+}
+#start{
+    height: 40px;
+    width: 80px;
+    background-color: cornsilk;
+    border-color: rgb(207, 179, 136);
+    border-width: 5px;
+    border-radius: 20px;
+}
